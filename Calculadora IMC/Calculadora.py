@@ -55,7 +55,7 @@ print(f"Edad: {edad} años")
 print(f"Peso: {peso} kg")
 print(f"Altura: {altura} m\n")
 
-#Calculos
+#Calculos IMC
 imc = peso / (altura ** 2)
 
 print(f"{nombre}, tienes {edad} años de edad y tu IMC es: {imc:.2f}\n")
