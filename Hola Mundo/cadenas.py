@@ -53,8 +53,8 @@ print(type(texto_variable))
 # print(texto.index("mundo")) #busca la palabra "mundo" y devuelve su posición, si no la encuentra lanza un error
 # print(texto.count("a")) #cuenta cuantas veces aparece la letra "a"  
 
-print ( " {} + {} + {} ".format("Hola", "Mundo", "Sergio") ) #formatea la cadena con los valores que le pasamos
-print ( " {2} + {0} + {2} ".format("Hola", "Mundo", "Sergio") ) #formatea la cadena con los valores que le pasamos, usando indices
-print ( " {} + {} + {} = {} ".format( 4 , 5, 6 , 3*2) ) #formatea la cadena con los valores que le pasamos
-print ( " {3:2f} + {2:2f} + {1:2f} = {0:2f} ".format( 4 , 5, 6 , 3*2) ) #formatea la cadena con los valores que le pasamos, usando indices y especificando el formato de los numeros
-print ( " {:d} = {:b} = {:o} = {:x} ".format( 14 , 14, 14 , 14) ) #formatea la cadena con los valores que le pasamos, usando indices y especificando el formato de los numeros como enteros
+# print ( " {} + {} + {} ".format("Hola", "Mundo", "Sergio") ) #formatea la cadena con los valores que le pasamos
+# print ( " {2} + {0} + {2} ".format("Hola", "Mundo", "Sergio") ) #formatea la cadena con los valores que le pasamos, usando indices
+# print ( " {} + {} + {} = {} ".format( 4 , 5, 6 , 3*2) ) #formatea la cadena con los valores que le pasamos
+# print ( " {3:2f} + {2:2f} + {1:2f} = {0:2f} ".format( 4 , 5, 6 , 3*2) ) #formatea la cadena con los valores que le pasamos, usando indices y especificando el formato de los numeros
+# print ( " {:d} = {:b} = {:o} = {:x} ".format( 14 , 14, 14 , 14) ) #formatea la cadena con los valores que le pasamos, usando indices y especificando el formato de los numeros como enteros
