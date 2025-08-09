@@ -17,3 +17,7 @@ Calculadora de IMC por Sergio Hernández Sandoval
 7.- Se hace la operacion correspondiente al calculo de IMC 
 
 8.- Se muestra el resultado final.
+
+Reflexión
+
+En general creo que me ha servido de mucha ayuda la practica, alguna vez trabaje con C++ y me es un poco familiar ¡aunque obvio la sintaxis cambia mucho!
